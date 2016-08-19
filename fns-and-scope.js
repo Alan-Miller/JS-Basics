@@ -34,6 +34,7 @@ function getName() {
 function welcome(welcomeName) {
   alert("Welcome, " + welcomeName);
 }
+welcome(getName());
 
 
 //////////////////PROBLEM 4////////////////////
